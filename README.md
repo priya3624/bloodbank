@@ -77,6 +77,44 @@ PATIENT
 SOFTWARE REQUIREMENTS
 
 o	Operating system: Windows 7 or higher
+
 o	Development: NetBeans  IDE 7.3.1
+
 o	Frontend: JAVA Swing
+
 o	Backend: MYSQL 8.0C
+
+SCREENSHOT
+
+Signup
+
+![image](https://github.com/priya3624/bloodbank/assets/161064853/45cc8262-570f-4263-b4a6-393b162b142e)
+
+Login
+
+![image](https://github.com/priya3624/bloodbank/assets/161064853/65f13971-4da0-4bd5-a2b6-02aa160b8c8a)
+
+Admin Dashboard
+
+![image](https://github.com/priya3624/bloodbank/assets/161064853/318d663e-7c8f-40e1-a12f-c87b963b3b9c)
+
+Donor Dashboard 
+
+![image](https://github.com/priya3624/bloodbank/assets/161064853/2db22112-d36b-461f-9b2b-56b72363f043)
+
+Patient Dashboard
+
+![image](https://github.com/priya3624/bloodbank/assets/161064853/e85aaf8c-a139-42a5-b8b4-4943edfecae5)
+
+Why should we donate blood
+
+![image](https://github.com/priya3624/bloodbank/assets/161064853/b35287fb-04de-4c6a-9d0d-6fbfa48dc349)
+
+
+
+
+
+
+
+
+
